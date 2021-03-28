@@ -1,1 +1,1 @@
-#Simple Login Template with React and Firebase
+Simple Login Template with React and Firebase
